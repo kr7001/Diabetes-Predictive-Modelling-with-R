@@ -5,10 +5,6 @@ date: "2024-07-14"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 Final Report: https://docs.google.com/document/d/1lr0MtbgF6ESwZ831SYsdiK5nTiyPDmt43oZ0yQinB3c/edit?usp=sharing
 
 This is part of the NUS DSA1101 Assignment. Please DO NOT directly use the source code, they are ONLY for reference. Plagiarism is strictly prohibited by NUS. See academic honesty and license for details.
